@@ -1,5 +1,5 @@
 # Relatório-vagas
-##  Ola
+:wave:##  Ola
 
 Realizei uma pesquisa sobre o mercado de trabalho para desenvolvedores web e ciências de dados. 
 A ideia foi entender melhor quais habilidades estão sendo mais pedidas , como anda a faixa salarial e para onde as tendências estão apontando .
