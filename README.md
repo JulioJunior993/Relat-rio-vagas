@@ -3,7 +3,7 @@
 ### :wave:      Ola
 
 
-### :point_right: Relatório de Vagas Desenvolvedor Web e Ciência de Dados
+### :point_right: Relatório de Vagas Desenvolvedor Web e Ciências de Dados
 
 
 Realizei uma pesquisa sobre o mercado de trabalho para desenvolvedores web e ciências de dados. 
